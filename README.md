@@ -1,7 +1,12 @@
-# OkeyPay
+# ([ReservaTotal](https://reservatotal.anibalcopitan.com))
 
-Verificador de pagos con yape
+Automate the reservation with Yape (wallet) payments
+Currently only work in Perú (yape.com.pe)
 
+List of Apps:
+
+- Android
+- Web 
 
 Screenshot
 
